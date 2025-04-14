@@ -28,4 +28,4 @@
   <img align="center" alt="Ana-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
 </div><br>
 
-![Snake Animation](https://github.com/soouzaana/blob/output/github-contribuition-grid-snake.svg)
+![Snake Animation](https://github.com/soouzaana/blob/output/github-contribution-grid-snake.svg)

@@ -1,35 +1,90 @@
-## Oii! 👋
+<!-- Banner de boas-vindas -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=ff087f"/>
 
-<div> 
+<!-- Introdução -->
+<div align="center">
+  <samp>
+    <b>Oii! 👋
+      <br>
+    Meu nome é Ana Maria!🌸
+      <br>
+    </b>
+  </samp>
+</div>
+
+<!-- Contador de visitas -->
+<div align="center">
+  <p align="center">
+    <img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fsoouzaana&s=21&c=f7d6e0&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A+&ta=" />
+  </p> 
+</div>
+
+<!-- GIF decorativo -->
+<div align="center">
+  <img src="https://imgur.com/zeuHIk9.gif" width="200">
+</div>
+
+
+<!-- Texto animado -->
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=f48fb1&width=900&size=21&center=true&lines=Estudante+de+Inform%C3%A1tica+no+IFRO;Apaixonada+por+c%C3%B3digo+e+design+web;Foco+em+JavaScript,+Vue,+C%23;Seja+bem-vindo(a)+ao+meu+GitHub!" alt="Typing SVG"/>
+</div>
+
+<!-- Detalhes em dropdown -->
+<details align="center">
+ <summary><samp><b>🌷 Mais sobre mim</b></samp></summary>
+  <br>
+  <div align="center">
+
+  | ![](https://github-readme-stats.vercel.app/api?username=soouzaana&show_icons=true&theme=radical) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=soouzaana&theme=radical) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=soouzaana&theme=radical&utcOffset=-4) |
+  | :-: | :-: | :-: |
+
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soouzaana&theme=radical) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=soouzaana&theme=radical)](https://git.io/streak-stats) |
+  | :-: | :-: |
+
+  </div>
+
+  <br>
+
+<!-- Tech stack principal -->
+<div align="center" style="display: flex; justify-content: center; gap: 60px; flex-wrap: wrap;">
+
+  <div style="text-align: center;">
+    <h3>🚀 Principais Skills:</h3>
+    <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+    <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+    <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+    <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+    <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+    <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-line.svg" />
+    <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  </div>
+
+  <div style="text-align: center;">
+    <h3>🤓 Outros Conhecimentos:</h3>
+    <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+    <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" />
+    <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
+  </div>
+
+</div>
+
+
+<br>
+
+##
+
+<br>
+
+<!-- Contatos -->
+<div align="center">
+  <div> 
   <a href="https://instagram.com/souza.ana0f" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="[https://www.linkedin.com/in/rafaella-ballerini-45875016a](https://www.linkedin.com/in/ana-maria-brito-souza-8aba5619a/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div><br>
 
-<div>
-  <a href="https://github.com/soouzaana">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=soouzaana&show_icons=true&theme=radical"/>
 </div>
-
-##
-
-### 🚀 Principais Skills: 
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Ana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ana-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-  <img align="center" alt="Ana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ana-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Ana-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="Ana-Vuetify" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuetify/vuetify-line.svg">  
-  <img align="center" alt="Ana-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
-</div>
-
-### 🤓 Outros Conhecimentos:
-<div style="display: inline_block"><br>
-  <img align="center" alt="Ana-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Ana-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Ana-Nuxt" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg">
-  <img align="center" alt="Ana-Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
-          
-</div><br>
-
+</details>
+<!-- Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff087f&height=100&section=footer"/>

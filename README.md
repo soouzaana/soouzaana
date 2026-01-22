@@ -37,9 +37,7 @@
   <div align="center">
 
  ![](https://github-readme-stats.vercel.app/api?username=soouzaana&show_icons=true&theme=radical)  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=soouzaana&theme=radical)  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=soouzaana&theme=radical&utcOffset=-4) 
-
-
-  |![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soouzaana&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soouzaana&theme=radical)
 
 
   </div>

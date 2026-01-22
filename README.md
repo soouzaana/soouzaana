@@ -15,7 +15,7 @@
 <!-- Contador de visitas -->
 <div align="center">
   <p align="center">
-    <img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fsoouzaana&s=21&c=f7d6e0&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A+&ta=" />
+    <img src="https://komarev.com/ghpvc/?username=soouzaana&label=Profile%20Views&color=ff69b4&style=flat" />
   </p> 
 </div>
 
@@ -39,7 +39,7 @@
   | ![](https://github-readme-stats.vercel.app/api?username=soouzaana&show_icons=true&theme=radical) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=soouzaana&theme=radical) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=soouzaana&theme=radical&utcOffset=-4) |
   | :-: | :-: | :-: |
 
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soouzaana&theme=radical) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=soouzaana&theme=radical)](https://git.io/streak-stats) |
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soouzaana&theme=radical) | [![GitHub Streak](https://streak-stats.demolab.com?user=soouzaana&theme=radical) |
   | :-: | :-: |
 
   </div>

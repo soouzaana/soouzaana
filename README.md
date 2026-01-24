@@ -27,7 +27,7 @@
 
 <!-- Texto animado -->
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=f48fb1&width=900&size=21&center=true&lines=Estudante+de+Inform%C3%A1tica+no+IFRO;Apaixonada+por+c%C3%B3digo+e+design+web;Foco+em+JavaScript,+Vue,+C%23;Seja+bem-vindo(a)+ao+meu+GitHub!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=f48fb1&width=900&size=21&center=true&lines=Desenvolvedora+Front-end;Vue,+JavaScript+e+UI%2FUX+Design;Futura+Desenvolvedora+Full-Stack;Bem-vindo(a)+ao+meu+GitHub!" alt="Typing SVG"/>
 </div>
 
 <!-- Detalhes em dropdown -->
